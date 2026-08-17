@@ -1,0 +1,11 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "task": "./index.js"
+  },
+  "scripts": {
+    "test": "node --test cli.test.js"
+  }
+}
